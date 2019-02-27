@@ -1,3 +1,3 @@
 var playlist = {Kanye:'Stronger'} ;
 
-var u
+var updatePlaylist = (playlist, Kanye: 'Stronger') ;
